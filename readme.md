@@ -21,7 +21,8 @@
 
 ## Preview
 
-![](asyncimage.gif)
+<img src="asyncimage.gif" alt="drawing" width="300"/>
+
 
 ## Features
 
