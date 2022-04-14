@@ -9,7 +9,7 @@
 <p align="left">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ewersoncastelo/AsyncImage.svg">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ewersoncastelo/AsyncImage.svg">
-  <a href="https://www.codacy.com/manual/ewersoncastelo/AsyncImage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/AsyncImage&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/5b820f81af4545279cbfe587545c0643"/></a>
+ <a href="https://www.codacy.com/gh/ewersoncastelo/AsyncImage/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/AsyncImage&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/d990cacf25ad4ca7bd69e403503d12c5"/></a>
 <a href="https://github.com/ewersoncastelo/AsyncImage/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ewersoncastelo/AsyncImage.svg">
   </a>
